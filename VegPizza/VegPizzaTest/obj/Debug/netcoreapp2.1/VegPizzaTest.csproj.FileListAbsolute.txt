@@ -1,0 +1,14 @@
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\VegPizzaTest.deps.json
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\VegPizzaTest.runtimeconfig.json
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\VegPizzaTest.runtimeconfig.dev.json
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\VegPizzaTest.dll
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\bin\Debug\netcoreapp2.1\VegPizzaTest.pdb
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\obj\Debug\netcoreapp2.1\VegPizzaTest.csprojAssemblyReference.cache
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\obj\Debug\netcoreapp2.1\VegPizzaTest.csproj.CoreCompileInputs.cache
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\obj\Debug\netcoreapp2.1\VegPizzaTest.AssemblyInfoInputs.cache
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\obj\Debug\netcoreapp2.1\VegPizzaTest.AssemblyInfo.cs
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\obj\Debug\netcoreapp2.1\VegPizzaTest.dll
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaTest\obj\Debug\netcoreapp2.1\VegPizzaTest.pdb

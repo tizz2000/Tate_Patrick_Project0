@@ -1,0 +1,8 @@
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\bin\Debug\netcoreapp2.1\VegPizzaDb.deps.json
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\bin\Debug\netcoreapp2.1\VegPizzaDb.dll
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\bin\Debug\netcoreapp2.1\VegPizzaDb.pdb
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\obj\Debug\netcoreapp2.1\VegPizzaDb.csproj.CoreCompileInputs.cache
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\obj\Debug\netcoreapp2.1\VegPizzaDb.AssemblyInfoInputs.cache
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\obj\Debug\netcoreapp2.1\VegPizzaDb.AssemblyInfo.cs
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\obj\Debug\netcoreapp2.1\VegPizzaDb.dll
+C:\Users\tizz2000\source\repos\VegPizza\VegPizzaDb\obj\Debug\netcoreapp2.1\VegPizzaDb.pdb
